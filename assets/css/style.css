@@ -157,6 +157,10 @@ p {
   gap: 10px;
 }
 
+.logo:hover {
+  color: #ce7d63 !important;
+}
+
 /* .logo img {
   width: 50%;
 } */
@@ -1024,6 +1028,10 @@ p {
   z-index: 2;
 }
 
+.heading h1, .section-title h1 {
+  color: #ce7d63 !important;
+}
+
 main.main-06 {
   background: #0A0A0A;
   overflow: hidden;
@@ -1340,6 +1348,10 @@ main .footer p {
 
 main .footer .credit {
   text-align: right;
+}
+
+main .footer .credit a {
+  color: #ce7d63 !important;
 }
 
 @media (max-width: 767px) {
